@@ -1,8 +1,8 @@
 class Cred < Formula
   desc "Encrypted credential vault with local and shared Git profiles"
   homepage "https://github.com/emircancakmakk/cred"
-  url "https://github.com/emircancakmakk/cred/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "815f6ce954adaf8120c6389461f117ee4184d557e18c915eda3c467a5b40ecb8"
+  url "https://github.com/emircancakmakk/cred/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "0711e84cf076e3d85094076662167e9445ad7a401999df60801581eb5016b6a4"
   license "MIT"
 
   depends_on "go" => :build
